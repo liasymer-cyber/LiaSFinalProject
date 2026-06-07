@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/liasymer/Desktop/QSS20/GitHub/FinalProj/LiaSFinalProject/website/public/**)",
+      "Read(//Users/liasymer/Desktop/QSS20/GitHub/FinalProj/LiaSFinalProject/website/dist/**)"
+    ]
+  }
+}
