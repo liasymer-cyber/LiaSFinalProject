@@ -2,6 +2,7 @@
 
 **QSS 20 Final Project — Dartmouth College, 2026**  
 **Author:** Lia Symer
+**Website Link:** https://reporting-metoo-mediasentiment.vercel.app/ 
 
 A quantitative analysis of whether the #MeToo movement (October 2017) produced measurable changes in official rape reporting rates and news headline sentiment across the United States.
 
